@@ -1,3 +1,14 @@
+/*Se desea realizar una encuesta a 10 personas, en esta encuesta se debe indicar el
+sexo (masculino, femenino), si trabaja y su sueldo (si tiene un trabajo, sino será un
+cero) que estará entre 6000 y 20000 (valor entero).
+Hacer un programa mediante el cual se ingresen estos datos y que calcule e
+informe:
+a. Porcentaje de hombres (tengan o no trabajo).
+b. Porcentaje de mujeres (tengan o no trabajo).
+c. Porcentaje de hombres que trabajan.
+d. Porcentaje de mujeres que trabajan.
+e. El sueldo promedio de los hombres que trabajan.
+f. EL sueldo promedio de las mujeres que trabajan*/
 
 import java.util.Scanner;
 
